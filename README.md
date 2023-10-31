@@ -1,2 +1,2 @@
 # Welcome!
-This is the website for the Mischeif Firmware!
+This is the website for the Mischief Firmware!
